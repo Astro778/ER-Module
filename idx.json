@@ -1,0 +1,6 @@
+{
+    "attributo": "Un attributo e' una proprieta' o caratteristica che descrive un'entità o un'associazione...",
+    "entita": "Un'entita' rappresenta un oggetto o un concetto del mondo reale che puo' essere identificato...",
+    "associazione": "Un'associazione rappresenta una relazione logica tra due o piu' entità in un diagramma ER...",
+    "generalizzazione": "La generalizzazione e' un processo per organizzare le entità in una gerarchia..."
+}
